@@ -149,3 +149,6 @@ alias path='echo -e ${PATH//:/\\n}'
 
 # Git graph view
 alias graph="git log --all --decorate --oneline --graph"
+
+# Git graph view
+alias vsctl="ovs-vsctl"
